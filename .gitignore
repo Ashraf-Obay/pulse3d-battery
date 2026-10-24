@@ -1,0 +1,3 @@
+# build output (recreate with build.cmd)
+*.exe
+*.pdb
