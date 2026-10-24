@@ -35,3 +35,7 @@ The dongle doesn't answer feature-report queries, so the level is unknown until 
 - `Pulse3DBattery.cs`: the app (HID listener, tray icon, menu)
 - `IconArt.cs`: hand-drawn 16 px pixel font for a sharp tray icon
 - `IconPreview.cs`: dev tool that renders every icon state to a PNG
+
+## License
+
+[MIT](LICENSE)
